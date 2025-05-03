@@ -1,0 +1,8 @@
+VITE_REACT_ENV=development
+VITE_DEV_URL=http://localhost:5173/
+VITE_BASE_URL=https://dartgallery.site/api
+VITE_SOCKET_URL=https://dartgallery.site/ws
+VITE_KAKAO_JS_KEY=2de91a34726841d2d47e292877371dbd
+VITE_INTEGRITY_VALUE=sha384-TiCUE00h649CAMonG018J2ujOgDKW/kVWlChEuu4jK2vxfAAD0eZxzCKakxg55G4
+VITE_KAKAO_SDK_URL=https://t1.kakaocdn.net/kakao_js_sdk/2.7.2/kakao.min.js
+VITE_KAKAO_MAP_JS_KEY=bb558a046c2896d1bc6019ca469a4be6

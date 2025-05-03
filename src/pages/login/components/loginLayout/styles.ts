@@ -9,7 +9,7 @@ export const Container = styled.div`
   ${LayoutMap.displayFlex}
   flex-direction: column;
   max-width: 500px;
-  width: 90vh;
+  width: 100%;
 `;
 
 export const Header = styled.div`
